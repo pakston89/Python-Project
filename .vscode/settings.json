@@ -1,0 +1,8 @@
+{
+    "python.pythonPath":"C:\\Users\\pause\\Anaconda3\\envs\\tf_gpu\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.analysis.extraPaths": [
+        "./src/classes",
+    ]
+   
+}
